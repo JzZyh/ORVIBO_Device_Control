@@ -2,7 +2,7 @@
   "domain": "ORVIBO_Device_Control",
   "name": "ORVIBO_Device_Control",
   "documentation": "https://github.com/jzgods/ORVIBO_Device_Control/blob/main/README.md",
-  "issue_tracker": "https://github.com/JzZyh/ORVIBO_Device_Control/issues",
+  "issue_tracker": "https://github.com/jzgods/ORVIBO_Device_Control/issues",
   "config_flow": true,
   "dependencies": ["switch", "climate", "fan"],
   "codeowners": ["JzZyh"],
